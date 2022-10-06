@@ -1,0 +1,206 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.main{
+    width: 100%;
+    height: 700px;
+    background-color: rgb(22, 21, 21);
+}
+.f-oot{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    padding: 30px 60px;
+}
+.f-item{
+    width: 55%;
+    height:300.5px;
+    font-size: 18px;
+}
+.f-item p{
+    margin-top: 10px;
+}
+.f-item button{
+    margin-top: 10px;
+    font-size: 15px;
+}
+h2{
+    color:white;
+
+}
+div p{
+    color: #888; ;
+}
+.pram{
+    margin-top: 30px;
+    color: #888;
+}
+.butt1{
+    width: 80px;
+    height: 40px;
+    margin-left: 4px;
+    background-color: rgb(22, 21, 21);
+    border: 0.1px solid;
+    border-radius: 5px;
+    color: #888;
+}
+.butt2{
+    width: 60px;
+    height: 40px;
+    margin-left: 4px;
+    background-color: rgb(22, 21, 21);
+    border: 0.1px solid;
+    border-radius: 5px;
+    color: #888;
+}
+.butt3{
+    width: 80px;
+    height: 40px;
+    margin-left: 4px;
+    background-color: rgb(22, 21, 21);
+    border: 0.1px solid;
+    border-radius: 5px;
+    color: #888;
+}
+.not{
+    width: 123px;
+    height: 40px;
+    margin-left: 4px;
+    background-color: rgb(22, 21, 21);
+    border: 0.1px solid;
+    border-radius: 5px;
+    color: #888;
+}
+.not2{
+    width: 123px;
+    height: 40px;
+    margin-left: 4px;
+    background-color:rgb(22, 21, 21) ;
+    border: 0.1px solid ;
+    border-radius: 5px;
+    color: #888;
+}
+.you{
+width: 100px;
+height: 40px;
+margin-left: 4px;
+background-color: rgb(22, 21, 21);
+border: 0.1px solid;
+border-radius: 5px;
+color: #888;;
+}
+.you2{
+width: 70px;
+height: 40px;
+margin-left: 4px;
+background-color: rgb(22, 21, 21);
+border: 0.1px solid;
+border-radius: 5px;
+color: #888;
+}
+.top-imegs img{
+width: 40%;
+height: 80px;
+object-fit: cover;
+margin-left: 10px;
+}
+span p{
+margin-left: 160px;
+margin-bottom: -130px;
+font-size:medium;
+ object-fit: cover;
+}
+.jan{
+margin-left: 20px;
+color: green;
+object-fit: cover;
+}
+.lorem{
+margin-top: 10px;
+object-fit: cover;
+}
+.f-top{
+width: 55%;
+height: 565.5px;
+}
+.fbox{
+    margin-top: 250px;
+}
+.f-toot{
+    margin-top: 250px;
+}
+.f25{
+    margin-top: 40px;
+}
+.footer{
+    width: 100%;
+    height: 300px;
+    padding: 30px 60px;
+}
+.facebook{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(22, 21, 21);
+    color: #888;
+    border: 0.1px solid;
+    border-radius: 5px;
+}
+.twitter{
+    
+    width: 80px;
+    height: 40px;
+    background-color: rgb(22, 21, 21);
+    color: #888;
+    border: 0.1px solid;
+    border-radius: 5px;
+}
+.link{
+    width: 25%;
+    height: 200px;
+}
+.pinteres{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(22, 21, 21);
+    color: #888;
+    border: 0.1px solid;
+    border-radius: 5px;
+}
+.youtube{
+    width: 110px;
+    height: 40px;
+    background-color: rgb(22, 21, 21);
+    color: #888;
+    border: 0.1px solid;
+    border-radius: 5px;
+    margin-top: -10px;
+}
+.likedin{
+    width: 110px;
+    height: 40px;
+    background-color: rgb(22, 21, 21);
+    color: #888;
+    border: 0.1px solid;
+    border-radius: 5px;
+    margin-top: 1.5px;
+}
+h3{
+    color: white;
+}
+.hr{
+    width: 300px;
+    margin-top: -95px;
+}
+.hk{
+    width: 300px;
+    margin-top: 70px;
+}
+.gdi{
+    margin-left: -0.0px;
+}
+hr{
+    margin-top: 5px;
+}
